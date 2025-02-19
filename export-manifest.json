@@ -1,0 +1,121 @@
+{
+  "exportedWithOptions": {
+    "exportUploads": true,
+    "exportManagedFS": true,
+    "exportAnalysisModels": true,
+    "exportSavedModels": true,
+    "exportManagedFolders": true,
+    "exportModelEvaluationStores": true,
+    "exportProjectResources": true,
+    "exportLabelingTasks": true,
+    "exportAllInputDatasets": true,
+    "exportAllDatasets": true,
+    "exportAllInputManagedFolders": true,
+    "exportGitRepository": true,
+    "exportInsightsData": true,
+    "useManualPluginsInfo": false,
+    "exportSavedModelsRequiredVersions": false,
+    "exportNotebooksWithOutputs": true,
+    "exportForNewBranch": false,
+    "exportKnowledgeBanks": true,
+    "exportEditableDatasets": true,
+    "includedDatasetsData": [],
+    "includedSavedModels": [],
+    "includedModelEvaluationStores": [],
+    "includedManagedFolders": [],
+    "includedCodeStudios": [],
+    "includedKnowledgeBanks": [],
+    "includedLabelingTasks": [],
+    "shareAllInputDatasets": false,
+    "exportForeignObjectsReferences": true
+  },
+  "actualContent": {
+    "includedDatasets": [
+      {
+        "name": "amt_by_age_group",
+        "type": "S3",
+        "usedTransferMethod": "DATA_BUNDLE",
+        "size": 69
+      },
+      {
+        "name": "cleaned_customer_transactions",
+        "type": "S3",
+        "usedTransferMethod": "DATA_BUNDLE",
+        "size": 82511
+      },
+      {
+        "name": "customer_transactions",
+        "type": "UploadedFiles",
+        "usedTransferMethod": "UPLOAD",
+        "size": 173526
+      },
+      {
+        "name": "customers_with_age_groups",
+        "type": "S3",
+        "usedTransferMethod": "DATA_BUNDLE",
+        "size": 106388
+      }
+    ],
+    "includedSavedModels": [],
+    "includedManagedFolders": [],
+    "includedModelEvaluationStores": [],
+    "includedCodeStudios": [],
+    "includedKnowledgeBanks": [],
+    "includedLabelingTasks": [],
+    "allAnalysisData": true,
+    "insightsData": true
+  },
+  "originalProjectKey": "CUSTOMERDEMOGRAPHY",
+  "manifestVersion": 3,
+  "generatedWithDSSVersion": "13.4.0",
+  "generatedWithDSSConfVersion": "13400",
+  "foreignObjects": [],
+  "exportedWithPlugins": [
+    {
+      "pluginId": "geoadmin",
+      "version": "2.3.1"
+    },
+    {
+      "pluginId": "local-r-dev-setup",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "builtin-macros",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "dku-saas",
+      "version": "0.0.1"
+    },
+    {
+      "pluginId": "code-studio-blocks",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "colorbrewer-palettes",
+      "version": "0.0.1"
+    },
+    {
+      "pluginId": "k8s-metrics-utils",
+      "version": "1.0.0"
+    }
+  ],
+  "exportedWithCodeStudioTemplates": [],
+  "requiredCodeStudioTemplates": [],
+  "requiredConnections": {
+    "dataiku-managed-storage": {
+      "name": "dataiku-managed-storage",
+      "type": "EC2",
+      "isMissing": false
+    }
+  },
+  "allowedMissingConnections": [],
+  "usedCodeEnvRefs": [
+    {
+      "envLang": "PYTHON",
+      "envName": "datascience"
+    }
+  ],
+  "allowedMissingCodeEnvs": [],
+  "hasPartitionedDataset": false
+}

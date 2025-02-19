@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "id": "mELsmu8",
+      "grid": {
+        "tiles": []
+      },
+      "show": true,
+      "showTitle": false,
+      "titleAlign": "CENTER",
+      "titleFontColor": "#444444",
+      "titleFontSize": 28,
+      "enableCrossFilters": true,
+      "backgroundColor": "#ffffff",
+      "showFilterPanel": true,
+      "filtersParams": {
+        "panelPosition": "TOP",
+        "engineType": "LINO"
+      }
+    }
+  ],
+  "owner": "gandhiax2024@email.iimcal.ac.in",
+  "listed": true,
+  "name": "customerdemography\u0027s default dashboard",
+  "showGrid": false,
+  "columnNumber": 36,
+  "showNavigationArrows": false,
+  "reloadWhenEventReceived": false,
+  "tileSpacing": 8,
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "gandhiax2024@email.iimcal.ac.in"
+    },
+    "lastModifiedOn": 1739940517098
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

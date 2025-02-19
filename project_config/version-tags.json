@@ -1,0 +1,123 @@
+{
+  "tags": {
+    "DASHBOARD.V9D6Xe3": {
+      "versionNumber": 0,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739940517098
+    },
+    "DATASET.age_group_spending": {
+      "versionNumber": 2,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739949631104
+    },
+    "DATASET.age_group_spending_op": {
+      "versionNumber": 0,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739949698230
+    },
+    "DATASET.amt_by_age_group": {
+      "versionNumber": 2,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739952217603
+    },
+    "DATASET.cleaned_customer_transactions": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739941855601
+    },
+    "DATASET.customer_transactions": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739940846001
+    },
+    "DATASET.customers_with_age_groups": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739942551265
+    },
+    "DATASET.editable": {
+      "versionNumber": 3,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739946531877
+    },
+    "DATASET.mysqlsampledatabase": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739946732349
+    },
+    "DATASET.sql12_freesqldatabase_com": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739948306614
+    },
+    "PROJECT.CUSTOMERDEMOGRAPHY": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739954906298
+    },
+    "RECIPE.compute_age_group_spending": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739949631680
+    },
+    "RECIPE.compute_age_group_spending_op": {
+      "versionNumber": 3,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739949839742
+    },
+    "RECIPE.compute_amt_by_age_group": {
+      "versionNumber": 1,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739952217917
+    },
+    "RECIPE.compute_cleaned_customer_transactions": {
+      "versionNumber": 4,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739941819802
+    },
+    "RECIPE.compute_customers_with_age_groups": {
+      "versionNumber": 3,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739942539659
+    },
+    "RECIPE.compute_sql12_freesqldatabase_com": {
+      "versionNumber": 0,
+      "lastModifiedBy": {
+        "login": "gandhiax2024@email.iimcal.ac.in"
+      },
+      "lastModifiedOn": 1739948292176
+    }
+  }
+}
